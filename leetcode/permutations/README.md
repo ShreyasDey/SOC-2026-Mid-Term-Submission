@@ -1,0 +1,4 @@
+# Permutations
+
+- **Problem link:** https://leetcode.com/problems/permutations/
+- **Verdict:** Accepted
