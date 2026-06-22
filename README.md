@@ -1,43 +1,13 @@
-# CSES Solutions
+# Competitive Programming Solutions
 
-21 accepted solutions from the CSES Problem Set.
+Solutions for Seasons of Code 2026 (WnCC, IIT Bombay) — Competitive Programming for Beginners.
 
-## Introductory Problems
+## Structure
 
-| Problem          | Folder             |
-| ---------------- | ------------------ |
-| Tower of Hanoi   | `tower of hanoi`   |
-| Creating Strings | `creating strings` |
-| Apple Division   | `apple division`   |
-| Distinct Numbers | `distinct numbers` |
+- `codeforces/` — 32 accepted Codeforces solutions (private group contests + public rounds). See `codeforces/README.md` for full index.
+- `cses/` — 21 accepted CSES solutions, organized by section. See `cses/README.md` for full index.
+- `leetcode/` — 9 accepted LeetCode solutions. See `leetcode/README.md` for full index.
 
-## Sorting and Searching
+All comments have been stripped from solution files.
 
-| Problem                   | Folder                      |
-| ------------------------- | --------------------------- |
-| Apartments                | `apartments`                |
-| Ferris Wheel              | `ferris wheel`              |
-| Restaurant Customers      | `restaurant customers`      |
-| Movie Festival            | `movie festival`            |
-| Sum of Two Values         | `sum of two values`         |
-| Maximum Subarray Sum      | `maximum subarray sum`      |
-| Stick Lengths             | `stick lengths`             |
-| Playlist                  | `playlist`                  |
-| Towers                    | `towers`                    |
-| Distinct Values Subarrays | `distinct values subarrays` |
-| Josephus Problem I        | `josephus problem i`        |
-| Factory Machines          | `factory machines`          |
-| Reading Books             | `reading books`             |
-| Sum of Three Values       | `sum of three values`       |
-| Sum of Four Values        | `sum of four values`        |
-| Nearest Smaller Values    | `nearest smaller values`    |
-| Subarray Sum I            | `subarray sum i`            |
-
----
-
-**Total: 21 / 21 accepted problems**
-
-Each folder contains:
-
-- `solution.cpp` — the accepted submission
-- `README.md` — problem name, platform, verdict
+Each problem gets its own folder with `solution.cpp` (or appropriate extension) and a `README.md` containing the problem link/contest and verdict.
